@@ -1,0 +1,2 @@
+Potansiyometre ile birlikte (A0)
+Örnekler/Stepper/speed control
